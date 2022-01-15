@@ -5,8 +5,8 @@
 // Exercise 3 - HTTP and JSON
 //
 // Pair Programming
-// Member 1's Name: _____________    Matric:______________       Location: ____________ (i.e. where are you currently located)
-// Member 2's Name: _____________    Matric:______________       Location: ____________
+// Member 1's Name: Hassan Ali mohamed     Matric:QU180098       Location: sulaimaniyah (i.e. where are you currently located)
+// Member 2's Name: Mohamed daraa    Matric:QU180149       Location: sulaimaniyah
 // Date and time (s):   _____________, _____________, __________   (Date and time you conducted the pair programming sessions)
 //-----------------------------------------------------------------------------------------------------------------------------
 //? This file is fully given.
